@@ -1,4 +1,4 @@
-# -Criando-máquinas-Virtuais-na-Azure---DIO
+# Criando-máquinas-Virtuais-na-Azure---DIO
 Este repositório contém orientações direcionadas a utilização da Microsoft AZURE na DIO
 
 -------------------------------------------------------------------
